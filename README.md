@@ -81,3 +81,44 @@ The `xgboost_reg.ipynb` notebook includes:
 - Fine-tuning the model with hyperparameter optimization.
 
 - Evaluating performance metrics for comparison with the linear regression model.
+
+---
+
+## Running the Notebooks
+
+1. Clone this repository:
+
+```bash
+git clone <repository_url>
+cd <repository_folder>
+```
+
+2. Start Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+3. Open and run either `linear_reg.ipynb` or `xgboost_reg.ipynb`.
+
+---
+
+## Results
+
+The outputs include:
+
+- Insights into dataset relationships and trends using visualizations.
+
+- Model performance metrics and predictions.
+
+---
+
+## Contributions
+
+Feel free to fork the repository, submit issues, or create pull requests to enhance the notebooks.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
